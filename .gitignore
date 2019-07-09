@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+### common template
+.idea
+dist
+node_modules
+bower_components
+**/.DS_Store
+.tmp
+yarn-error.log
